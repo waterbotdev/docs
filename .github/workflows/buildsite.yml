@@ -26,15 +26,15 @@ jobs:
 # REAL BUILDING
     - name: Build site
       run: mkdocs build
-    - name: Commit files
-      run: |
-        ls -l
-        git config --local user.email "chuenghowui@gmail.com"
-        git config --local user.name "GitHub Actions"
-        git commit -m "Auto-build site" -a
+    #- name: Commit files
+      #run: |
+        #ls -l
+        #git config --local user.email "chuenghowui@gmail.com"
+        #git config --local user.name "GitHub Actions"
+        #git commit -m "Auto-build site" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.TOKEN }}
         branch: 'gh-pages'
         directory: './site'
