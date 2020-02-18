@@ -26,14 +26,6 @@ jobs:
 # REAL BUILDING
     - name: Build site
       run: mkdocs build
-    - name: Run a multi-line script
-      run: |
-        echo "Copying build artifacts"
-        cp site ../ -r
-        echo "Checking out to gh branches"
-        git checkout gh-pages
-        rm * -vfr
-        mv ../site/* ./
     - name: Commit files
       run: |
         ls -l
@@ -45,3 +37,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: 'gh-pages'
+        directory: './site'
