@@ -26,6 +26,8 @@ jobs:
 # REAL BUILDING
     - name: Build site
       run: mkdocs build
+    - name: ChPWD
+      run: cd site
     #- name: Commit files
       #run: |
         #ls -l
