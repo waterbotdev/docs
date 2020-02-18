@@ -26,8 +26,8 @@ jobs:
 # REAL BUILDING
     - name: Build site
       run: mkdocs build
-    - name: ChPWD
-      run: cd site
+      #- name: ChPWD
+      #run: cd site
     #- name: Commit files
       #run: |
         #ls -l
@@ -39,5 +39,5 @@ jobs:
       with:
         github_token: ${{ secrets.TOKEN }}
         branch: 'gh-pages'
-        directory: 'docs/site'
+        directory: '/home/runner/work/docs/docs/site'
         force: true
