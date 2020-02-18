@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2f4603c-df0c-4a5f-a726-c98f219fe4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/icon.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site/.idea/misc.xml" afterDir="false" />
@@ -31,9 +29,8 @@
       <change beforePath="$PROJECT_DIR$/../bot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bot/exts/helpers/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/exts/helpers/util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bot/exts/mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/exts/mod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site/Waterbot.bsdesign" beforeDir="false" afterPath="$PROJECT_DIR$/../site/waterbot.bsdesign" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582029365726</updated>
-      <workItem from="1582029400280" duration="4971000" />
+      <workItem from="1582029400280" duration="5359000" />
     </task>
     <servers />
   </component>
