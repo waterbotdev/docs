@@ -20,18 +20,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2f4603c-df0c-4a5f-a726-c98f219fe4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../site/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../site/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../site/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../site/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../site/.idea/site.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../site/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/fonts/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/fonts/material-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/fonts/specimen/FontAwesome.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/fonts/specimen/FontAwesome.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/fonts/specimen/FontAwesome.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/fonts/specimen/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/fonts/specimen/MaterialIcons-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/fonts/specimen/MaterialIcons-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/images/icons/bitbucket.1b09e088.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/images/icons/github.f0b8504a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/images/icons/gitlab.6dd19c00.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/application.c33a9706.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.du.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.jp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.multi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.stemmer.support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/lunr.vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/tinyseg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/lunr/wordcut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/javascripts/modernizr.86422ebf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/stylesheets/application-palette.a8b3c06d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/assets/stylesheets/application.adb8469c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site/images/icon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bot/exts/helpers/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/exts/helpers/util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bot/exts/mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/exts/mod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/buildsite.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/buildsite.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site/Waterbot.bsdesign" beforeDir="false" afterPath="$PROJECT_DIR$/../site/waterbot.bsdesign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site/redirect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site/sitemap.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582029365726</updated>
-      <workItem from="1582029400280" duration="5359000" />
+      <workItem from="1582029400280" duration="8060000" />
     </task>
     <servers />
   </component>

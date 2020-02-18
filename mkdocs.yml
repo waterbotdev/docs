@@ -12,8 +12,8 @@ theme:
   logo: 'images/icon.ico'
   language: 'en'
 
-repo-name: 'waterbotdev/docs'
-repo-url: 'https://github.com/waterbotdev/docs'
+repo_name: 'waterbotdev/docs'
+repo_url: 'https://github.com/waterbotdev/docs'
 
 extra:
   social:
