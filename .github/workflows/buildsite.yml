@@ -26,21 +26,25 @@ jobs:
     - name: Build site
       run: mkdocs build
 
-    - name: Move Site
-      run: mv site/ ../
+    - name: Move site files to temp
+      run: mv site/ ../ -r
+
+    - name: Checkout gh-pages branch
+      run: git checkout gh-pages
 
     - name: Kill the fire
       run: rm * -vfr
 
     - name: Move site back
-      run: mv site/* ./ -r
+      run: mv ../site/* ./
 
     - name: Basic git stuff
       run: |
-        git init
-        git config user.email "actions@github.com"
-        git config user.name "GitHub Actions"
+#        git init
+#        git config user.email "actions@github.com"
+#        git config user.name "GitHub Actions"
         git commit -m "Auto build site"
+#        git remote add origin https://github.com/waterbotdev/docs
 
     - name: Push changes
       uses: ad-m/github-push-action@master
