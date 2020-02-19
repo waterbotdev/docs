@@ -1,9 +1,15 @@
+# METADATA
 site_name: 'Waterbot Documentations'
 
+# SITE NAVIGATIONS
 nav:
-  - Home: index.md
-  - About: about.md
+  - Home: 'index.md'
+  - Core:
+      - 'Activity': 'commands/core/activity.md'
+      - 'Say': 'commands/core/say.md'
+  - About: 'about.md'
 
+# THEME ITEMS
 theme:
   name: 'material'
   palette:
@@ -11,10 +17,10 @@ theme:
     accent: 'indigo'
   logo: 'images/icon.ico'
   language: 'en'
+  feature:
+    tabs: true
 
-repo_name: 'waterbotdev/docs'
-repo_url: 'https://github.com/waterbotdev/docs'
-
+#EXTRA SOCIAL LINKS
 extra:
   social:
     - type: 'github'
@@ -22,10 +28,27 @@ extra:
     - type: 'twitter'
       link: 'https://twitter.com/waterbotdev'
 
+# REPO FOR TOP RIGHT DISPLAY
+repo_name: 'wdev/docs'
+repo_url: 'https://github.com/waterbotdev/docs'
+
 # Useful extentions
 markdown_extensions:
   - admonition
+  - pymdownx.inlinehilite
+  - pymdownx.details
+  - pymdownx.progressbar
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      clickable_checkbox: true
   - codehilite:
       guess_lang: false
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.magiclink:
+      repo_url_shortener: true
+      repo_url_shorthand: true
+      social_url_shorthand: true

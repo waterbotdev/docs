@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2f4603c-df0c-4a5f-a726-c98f219fe4bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/FAQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guides/selfhosting.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site/assets/fonts/font-awesome.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site/assets/fonts/material-icons.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site/assets/fonts/specimen/FontAwesome.ttf" afterDir="false" />
@@ -61,10 +63,10 @@
       <change afterPath="$PROJECT_DIR$/../site/assets/stylesheets/application-palette.a8b3c06d.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site/assets/stylesheets/application.adb8469c.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site/images/icon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bot/exts/helpers/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/exts/helpers/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bot/exts/mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/exts/mod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/buildsite.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/buildsite.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site/Waterbot.bsdesign" beforeDir="false" afterPath="$PROJECT_DIR$/../site/waterbot.bsdesign" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site/contact.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../site/index.html" beforeDir="false" />
@@ -103,6 +105,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\bots\waterbot\docs\docs\commands" />
       <recent name="C:\bots\waterbot\docs\docs" />
       <recent name="C:\bots\waterbot\docs\docs\images" />
     </key>
@@ -120,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582029365726</updated>
-      <workItem from="1582029400280" duration="11795000" />
+      <workItem from="1582029400280" duration="27187000" />
     </task>
     <servers />
   </component>
@@ -140,5 +143,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="9" key="#Plugins" timestamp="1582077946642">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="272" y="9" key="#Plugins/0.0.1360.738@0.0.1360.738" timestamp="1582077946642" />
   </component>
 </project>
