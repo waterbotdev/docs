@@ -29,8 +29,8 @@ jobs:
     - name: Move site files to temp
       run: mv site/ ../
 
-    - name: Checkout gh-pages branch
-      run: git checkout gh-pages
+    #- name: Checkout gh-pages branch
+    #  run: git checkout gh-pages
 
     - name: Kill the fire
       run: rm * -vfr
