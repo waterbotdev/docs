@@ -27,7 +27,7 @@ jobs:
       run: mkdocs build
 
     - name: Move site files to temp
-      run: mv site/ ../ -r
+      run: mv site/ ../
 
     - name: Checkout gh-pages branch
       run: git checkout gh-pages
