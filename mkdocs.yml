@@ -34,6 +34,7 @@ repo_url: 'https://github.com/waterbotdev/docs'
 
 # Useful extentions
 markdown_extensions:
+  - meta
   - admonition
   - pymdownx.inlinehilite
   - pymdownx.details
