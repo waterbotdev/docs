@@ -39,12 +39,7 @@ jobs:
       run: mv ../site/* ./
 
     - name: Basic git stuff
-      run: |
-#        git init
-#        git config user.email "actions@github.com"
-#        git config user.name "GitHub Actions"
-        git commit -m "Auto build site"
-#        git remote add origin https://github.com/waterbotdev/docs
+      run: git commit -m "Auto build site"
 
     - name: Push changes
       uses: ad-m/github-push-action@master

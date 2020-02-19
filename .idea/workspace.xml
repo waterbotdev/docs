@@ -65,7 +65,6 @@
       <change beforePath="$PROJECT_DIR$/../bot/exts/helpers/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/exts/helpers/util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bot/exts/mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/exts/mod.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/buildsite.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/buildsite.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site/Waterbot.bsdesign" beforeDir="false" afterPath="$PROJECT_DIR$/../site/waterbot.bsdesign" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site/contact.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../site/index.html" beforeDir="false" />
@@ -121,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582029365726</updated>
-      <workItem from="1582029400280" duration="10780000" />
+      <workItem from="1582029400280" duration="10860000" />
     </task>
     <servers />
   </component>
