@@ -29,8 +29,14 @@ jobs:
     - name: Move site files to temp
       run: mv site/ ../
 
+    #- name: Stash shit so no one sees and no errors
+    #  run: git stash
     #- name: Checkout gh-pages branch
     #  run: git checkout gh-pages
+
+    - uses: actions/checkout@v2
+      with:
+        ref: 'gh-pages'
 
     - name: Kill the fire
       run: rm * -vfr
