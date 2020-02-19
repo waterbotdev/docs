@@ -4,9 +4,33 @@ site_name: 'Waterbot Documentations'
 # SITE NAVIGATIONS
 nav:
   - Home: 'index.md'
+  # Command Docs
   - Core:
+      - 'Home': 'commands/core/index.md'
       - 'Activity': 'commands/core/activity.md'
       - 'Say': 'commands/core/say.md'
+  - Developers:
+      - 'Home': 'commands/devs/index.md'
+
+  - Fun:
+      - 'Home': 'commands/fun/index.md'
+
+  - GuildConfig:
+      - 'Home': 'commands/guild/index.md'
+
+  - Moderation:
+      - 'Home': 'commands/mod/index.md'
+
+  - Utilities:
+      - 'Home': 'commands/utils/index.md'
+
+  # Guides
+  - Guides:
+      - 'Home': 'guides/index.md'
+      - 'Setting up': 'guides/setup.md'
+      - 'Selfhosting': 'guides/selfhosting.md'
+
+  # About page
   - About: 'about.md'
 
 # THEME ITEMS

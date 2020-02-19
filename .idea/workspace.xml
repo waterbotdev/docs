@@ -20,7 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2f4603c-df0c-4a5f-a726-c98f219fe4bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/commands/core/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/commands/devs/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/commands/fun/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/commands/guild/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/commands/mod/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/commands/utils/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guides/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guides/setup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guides/selfhosting.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guides/selfhosting.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
@@ -46,7 +55,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/commands/utils" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,6 +70,10 @@
       <recent name="C:\bots\waterbot\docs\docs\images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\bots\waterbot\docs\docs\commands\utils" />
+      <recent name="C:\bots\waterbot\docs\docs\commands\mod" />
+      <recent name="C:\bots\waterbot\docs\docs\commands\guild" />
+      <recent name="C:\bots\waterbot\docs\docs\commands\fun" />
       <recent name="C:\bots\waterbot\docs\docs" />
     </key>
   </component>
@@ -74,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582029365726</updated>
-      <workItem from="1582029400280" duration="32483000" />
+      <workItem from="1582029400280" duration="41510000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,1 @@
+hero: Guides - Setting Up

@@ -33,3 +33,5 @@ This documentations will use the following legends for displaying parameters
     Parameters surronded with angle brackets (``< >``) are required parameters.
     (i.e. ```.command_name <required parameter>```)
     
+If you need to lookup a command, use the search function, or if you know the category, you can also
+go to that directory and select the command from the left sidebar.
