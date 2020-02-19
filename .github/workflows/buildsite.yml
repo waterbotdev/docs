@@ -39,7 +39,10 @@ jobs:
       run: mv ../site/* ./
 
     - name: Basic git stuff
-      run: git commit -m "Auto build site"
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "chuenghowui@gmail.com"
+        git commit -m "Auto build site"
 
     - name: Push changes
       uses: ad-m/github-push-action@master
