@@ -9,15 +9,24 @@ You can contribute to these projects as well
 
 ## Developers
 
-#### Lindsey (lindseyontop)
+#### Lindsey (Windbot)
 **Bot Owner**
 
 Twitter: pending
 
-#### Dragonic (dragifey)
+GitHub: @lindseyontop
+
+#### Dragonic (Firebot)
 Twitter: pending
 
-#### Kenny (kcomain)
+GitHub: @dragifey
+
+#### Kenny (Earthbot)
 Twitter: @kennykcomain_
 
-#### Zac (appraiise)
+GitHub: @kcomain
+
+GitLab: @kcomain
+
+#### Zac (Pussybot)
+GitHub: @appraiise 
