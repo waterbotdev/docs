@@ -46,6 +46,7 @@ jobs:
 
     - name: Basic git stuff
       run: |
+        git add .
         git config user.name "GitHub Actions"
         git config user.email "chuenghowui@gmail.com"
         git commit -m "Auto build site"
